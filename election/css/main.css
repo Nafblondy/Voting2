@@ -1,0 +1,128 @@
+/*******main css of the site created by jingis@Prymecoders.com***/
+body{
+background:#fff;
+}
+.jum{
+background:#fff;
+margin-top:40px;
+}
+.jumb{
+background:#fff;
+margin-top:30px;
+} .tables{
+    border:solid 1px #e8e8e8;
+    margin-bottom: 10px;
+	padding:30px;
+    border:solid 1px #eee;
+    //border-radius:10px;
+}
+.tables:hover{
+    border:solid 1px #4071a9;
+    background: #e8e8e8;
+    //border-radius:10px;
+}
+.form-container{
+border:solid 1px #ccc;
+background:#fff;
+border-radius:10px;
+box-shadow:-0.2px -0.2px 2px 2px #eee;
+padding-top:15px;
+padding-bottom:15px;
+}
+.but{
+padding-bottom:10px;
+padding-top:10px;
+font-size:20px;
+}
+.error{
+color:red;
+font-size:14px;
+}
+.marg{
+margin-top:6px;
+color:#fff;
+margin-left:40px;
+font-size:28px;
+}
+.margin{
+margin-right:14px;
+margin-bottom:10px;
+position:relative;
+background:#fff;
+box-shadow:-0.2px -0.2px 2px 2px #eee;
+padding-bottom:10px;
+border-radius:4px;
+border:solid 1px #ccc;
+}
+.bottom{
+background:#efefef;
+position:absolute;
+top:0px;
+width:100%;
+text-align:center;
+padding-bottom:7px;
+padding-top:7px;
+box-shadow:-0.2px -0.2px 2px 2px #eee;
+border-radius:4px 4px 0px 0px;
+border:solid 1px #ccc;
+right:0px;
+left:0px;
+color:#009;
+}
+.holder{
+margin:0px;
+margin-top:60px;
+}
+.returnData{
+width:100%;
+}
+.returnData h1 ,h2,h3,h4,h5,h6{
+font-size:18px;
+text-align:center;
+color:#4071a9;
+}
+h1,h2,h3,h4,h5,h6{
+ font-size:18px;
+text-align:left;
+color:#4071a9;
+}   
+.form-header{
+	text-align: center;
+	padding: 15px 40px;
+	border-radius: 10px 10px 0 0;
+}
+.form-header i{font-size:60px;}
+.form-footer {
+	padding: 30px 10px;	
+}
+.form-signin-heading{
+	margin-bottom: 30px;
+}
+i{margin-right: 4%; color:#4071a9;}
+.imgborder{
+border:solid 3px  #4071a9;
+margin:10px;
+}
+.bd{
+background:#4071a9;
+padding:9px;
+border-radius: 4px;
+}
+.default {
+	 color: #fff;
+    border-bottom: 3px solid #4071a9;
+    border-top: 3px solid #4071a9;
+box-shadow: 1px 1px 0px 0px #ccc;
+}
+.margs{
+margin-top:6px;
+color:#4071a9;
+margin-left:40px;
+font-size:28px;
+}
+#status{
+    color:green;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 19px;
+}
